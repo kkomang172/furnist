@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
                       Container(
                         alignment: Alignment.topLeft,
                         child: Text(
-                          "Find Best Furniture\nFor Your Home",
+                          "Find Best Furniture\nHome",
                           style: kLeadingHome,
                         ),
                       ),
